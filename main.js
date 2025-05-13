@@ -1,8 +1,8 @@
 var genreList = import('./genres.txt');
 
-console.log(genreList.split('\n'));
+//console.log(genreList.split('\n'));
 
-//function getNewGenre(){
+function getNewGenre(){
 
     console.log("you clicked");
 
